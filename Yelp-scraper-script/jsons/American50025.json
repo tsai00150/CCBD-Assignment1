@@ -1,0 +1,1113 @@
+{
+  "yelp-restaurants": [
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "KifkRh0gGD0voBw4FHFCVA"
+          },
+          "name": {
+            "S": "Chirping Chicken"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.78163"
+              },
+              "longitude": {
+                "N": "-73.9792"
+              }
+            }
+          },
+          "review_count": {
+            "N": "628"
+          },
+          "rating": {
+            "N": "3.5"
+          },
+          "zip_code": {
+            "N": "10024"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "355 Amsterdam Ave"
+              },
+              {
+                "S": "New York, NY 10024"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:34:28.873735"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "huguW14qFJAMfVNhH_VxqQ"
+          },
+          "name": {
+            "S": "Lions Gate Grill"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.76742"
+              },
+              "longitude": {
+                "N": "-73.98216"
+              }
+            }
+          },
+          "review_count": {
+            "N": "4"
+          },
+          "rating": {
+            "N": "4.5"
+          },
+          "zip_code": {
+            "N": "10019"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "1000 S 8th Ave"
+              },
+              {
+                "S": "Ste 12"
+              },
+              {
+                "S": "New York, NY 10019"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:34:28.885464"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "ihplCj2HKWR7z-bBKf8Nzw"
+          },
+          "name": {
+            "S": "POST"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.7225246"
+              },
+              "longitude": {
+                "N": "-73.9821975"
+              }
+            }
+          },
+          "review_count": {
+            "N": "301"
+          },
+          "rating": {
+            "N": "4.5"
+          },
+          "zip_code": {
+            "N": "10009"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "217 E 3rd St"
+              },
+              {
+                "S": "New York, NY 10009"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:34:28.896821"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "FaR-Kv-0ZzgcqFW1sCnacw"
+          },
+          "name": {
+            "S": "Citizens Of Chelsea"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.748099827409895"
+              },
+              "longitude": {
+                "N": "-74.000569"
+              }
+            }
+          },
+          "review_count": {
+            "N": "934"
+          },
+          "rating": {
+            "N": "4.0"
+          },
+          "zip_code": {
+            "N": "10001"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "401 W 25th St"
+              },
+              {
+                "S": "New York, NY 10001"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:34:28.908738"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "-_4i_FQ1Tt_aMU904O82Ow"
+          },
+          "name": {
+            "S": "Crompton Ale House"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.7459087"
+              },
+              "longitude": {
+                "N": "-73.9937093"
+              }
+            }
+          },
+          "review_count": {
+            "N": "233"
+          },
+          "rating": {
+            "N": "4.0"
+          },
+          "zip_code": {
+            "N": "10001"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "159 W 26th St"
+              },
+              {
+                "S": "New York, NY 10001"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:34:28.924733"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "Q02uPdw8j8yDIVSPyJATjA"
+          },
+          "name": {
+            "S": "Old Town Bar & Restaurant"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.737594"
+              },
+              "longitude": {
+                "N": "-73.989166"
+              }
+            }
+          },
+          "review_count": {
+            "N": "406"
+          },
+          "rating": {
+            "N": "3.5"
+          },
+          "zip_code": {
+            "N": "10003"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "45 E 18th St"
+              },
+              {
+                "S": "New York, NY 10003"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:34:28.937732"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "e213aUxlMxh2F_vpTa-zjA"
+          },
+          "name": {
+            "S": "Biddy's Pub"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.78102"
+              },
+              "longitude": {
+                "N": "-73.94909"
+              }
+            }
+          },
+          "review_count": {
+            "N": "109"
+          },
+          "rating": {
+            "N": "4.5"
+          },
+          "zip_code": {
+            "N": "10128"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "301 E 91st St"
+              },
+              {
+                "S": "New York, NY 10128"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:34:28.950186"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "zLNOCv3hmzPNO8pchYdBpw"
+          },
+          "name": {
+            "S": "Joe Jr. Restaurant"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.73468"
+              },
+              "longitude": {
+                "N": "-73.98596"
+              }
+            }
+          },
+          "review_count": {
+            "N": "421"
+          },
+          "rating": {
+            "N": "4.0"
+          },
+          "zip_code": {
+            "N": "10003"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "167 3rd Ave"
+              },
+              {
+                "S": "New York, NY 10003"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:34:28.961735"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "kMljfja7weqfl_lzspjzHA"
+          },
+          "name": {
+            "S": "Cafe Cluny"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.737385"
+              },
+              "longitude": {
+                "N": "-74.003966"
+              }
+            }
+          },
+          "review_count": {
+            "N": "811"
+          },
+          "rating": {
+            "N": "3.5"
+          },
+          "zip_code": {
+            "N": "10014"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "284 W 12th St"
+              },
+              {
+                "S": "New York, NY 10014"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:34:28.973795"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "Hp1ZDTeJOP1NrY2aFtROgQ"
+          },
+          "name": {
+            "S": "Woodbines"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.745216"
+              },
+              "longitude": {
+                "N": "-73.95357"
+              }
+            }
+          },
+          "review_count": {
+            "N": "357"
+          },
+          "rating": {
+            "N": "4.0"
+          },
+          "zip_code": {
+            "N": "11101"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "47-10 Vernon Blvd"
+              },
+              {
+                "S": "Long Island City, NY 11101"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:34:28.985736"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "TDyu1-6XF7r1jc13j7nDNA"
+          },
+          "name": {
+            "S": "T\u00d8RST"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.7233949"
+              },
+              "longitude": {
+                "N": "-73.950856"
+              }
+            }
+          },
+          "review_count": {
+            "N": "429"
+          },
+          "rating": {
+            "N": "4.5"
+          },
+          "zip_code": {
+            "N": "11222"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "615 Manhattan Ave"
+              },
+              {
+                "S": "Brooklyn, NY 11222"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:34:29.002817"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "TfYOx6Ql-wWdjGpgVaNcpQ"
+          },
+          "name": {
+            "S": "De Novo Edgewater"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.8268814086914"
+              },
+              "longitude": {
+                "N": "-73.973518371582"
+              }
+            }
+          },
+          "review_count": {
+            "N": "288"
+          },
+          "rating": {
+            "N": "4.0"
+          },
+          "zip_code": {
+            "N": "07020"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "1257 River Rd"
+              },
+              {
+                "S": "Edgewater, NJ 07020"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:34:29.016734"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "F-QQCnbsw48dfx4qVf-WoQ"
+          },
+          "name": {
+            "S": "Monk Mcginn's"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.71432"
+              },
+              "longitude": {
+                "N": "-74.00972"
+              }
+            }
+          },
+          "review_count": {
+            "N": "124"
+          },
+          "rating": {
+            "N": "4.5"
+          },
+          "zip_code": {
+            "N": "10007"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "57 Murray St"
+              },
+              {
+                "S": "New York, NY 10007"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:34:29.028736"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "ME0627wYk0ikhX2yf1fN7w"
+          },
+          "name": {
+            "S": "HAVEN Riverfront Restaurant and Bar"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.803426"
+              },
+              "longitude": {
+                "N": "-73.9907"
+              }
+            }
+          },
+          "review_count": {
+            "N": "1129"
+          },
+          "rating": {
+            "N": "4.0"
+          },
+          "zip_code": {
+            "N": "07020"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "2 Main St"
+              },
+              {
+                "S": "Ste G"
+              },
+              {
+                "S": "Edgewater, NJ 07020"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:34:29.040732"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "2iW5TU4W0BN8LYBzVmO9Qw"
+          },
+          "name": {
+            "S": "The Honey Well"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.82849"
+              },
+              "longitude": {
+                "N": "-73.94862"
+              }
+            }
+          },
+          "review_count": {
+            "N": "336"
+          },
+          "rating": {
+            "N": "4.5"
+          },
+          "zip_code": {
+            "N": "10031"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "3604 Broadway"
+              },
+              {
+                "S": "New York, NY 10031"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:34:29.053741"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "W0k5HHTa7IJsR51Nf7fOmA"
+          },
+          "name": {
+            "S": "Times Square Diner"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.7614036889404"
+              },
+              "longitude": {
+                "N": "-73.9869685269328"
+              }
+            }
+          },
+          "review_count": {
+            "N": "1070"
+          },
+          "rating": {
+            "N": "4.0"
+          },
+          "zip_code": {
+            "N": "10019"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "807 8th Ave"
+              },
+              {
+                "S": "New York, NY 10019"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:34:29.064767"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "PMp7WlHIXQUnej-Ds1jRfw"
+          },
+          "name": {
+            "S": "Blind Tiger Ale House"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.731926"
+              },
+              "longitude": {
+                "N": "-74.003223"
+              }
+            }
+          },
+          "review_count": {
+            "N": "925"
+          },
+          "rating": {
+            "N": "4.0"
+          },
+          "zip_code": {
+            "N": "10014"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "281 Bleecker St"
+              },
+              {
+                "S": "New York, NY 10014"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:34:29.077766"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "n9bm5R7DH-no5CTupRxbZw"
+          },
+          "name": {
+            "S": "Faso Taste"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.82041"
+              },
+              "longitude": {
+                "N": "-73.95454"
+              }
+            }
+          },
+          "review_count": {
+            "N": "11"
+          },
+          "rating": {
+            "N": "5.0"
+          },
+          "zip_code": {
+            "N": "10031"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "3350 Broadway"
+              },
+              {
+                "S": "New York, NY 10031"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:34:29.091740"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "DRitJoNGTkHXZvH_YpLIAw"
+          },
+          "name": {
+            "S": "Marc Forgione"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.71647"
+              },
+              "longitude": {
+                "N": "-74.0095599"
+              }
+            }
+          },
+          "review_count": {
+            "N": "994"
+          },
+          "rating": {
+            "N": "4.5"
+          },
+          "zip_code": {
+            "N": "10013"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "134 Reade St"
+              },
+              {
+                "S": "New York, NY 10013"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:34:29.102856"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "l_hBcWIFx_ausYBxLkSglQ"
+          },
+          "name": {
+            "S": "Oliver's Astoria"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.7595239"
+              },
+              "longitude": {
+                "N": "-73.9198044"
+              }
+            }
+          },
+          "review_count": {
+            "N": "572"
+          },
+          "rating": {
+            "N": "4.0"
+          },
+          "zip_code": {
+            "N": "11103"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "3719 Broadway"
+              },
+              {
+                "S": "Astoria, NY 11103"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:34:29.115735"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "NZaq_ygLr4N8-blY5dGx-g"
+          },
+          "name": {
+            "S": "Paul's On Times Square"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.75522"
+              },
+              "longitude": {
+                "N": "-73.98539"
+              }
+            }
+          },
+          "review_count": {
+            "N": "334"
+          },
+          "rating": {
+            "N": "4.0"
+          },
+          "zip_code": {
+            "N": "10036"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "136 W 42nd St"
+              },
+              {
+                "S": "New York, NY 10036"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:34:29.130001"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "Pr-q47vsmM4aoc2t_Sfk8w"
+          },
+          "name": {
+            "S": "Momofuku Noodle Bar - Uptown"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.76802583631109"
+              },
+              "longitude": {
+                "N": "-73.9829243"
+              }
+            }
+          },
+          "review_count": {
+            "N": "461"
+          },
+          "rating": {
+            "N": "4.0"
+          },
+          "zip_code": {
+            "N": "10019"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "10 Columbus Cir"
+              },
+              {
+                "S": "Third Floor"
+              },
+              {
+                "S": "New York, NY 10019"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:34:29.143818"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "ETgJqJHV7BW6pIr9Ox74sA"
+          },
+          "name": {
+            "S": "Am\u00e9lie"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.7327"
+              },
+              "longitude": {
+                "N": "-73.99766"
+              }
+            }
+          },
+          "review_count": {
+            "N": "2846"
+          },
+          "rating": {
+            "N": "4.5"
+          },
+          "zip_code": {
+            "N": "10011"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "22 W 8th St"
+              },
+              {
+                "S": "New York, NY 10011"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:34:29.157801"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "GpWXEpVyehmKP2WQsD_Y8g"
+          },
+          "name": {
+            "S": "OTB"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.710484"
+              },
+              "longitude": {
+                "N": "-73.963408"
+              }
+            }
+          },
+          "review_count": {
+            "N": "164"
+          },
+          "rating": {
+            "N": "4.5"
+          },
+          "zip_code": {
+            "N": "11211"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "141 Broadway"
+              },
+              {
+                "S": "Brooklyn, NY 11211"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:34:29.170800"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "FzK3krlvA4fBHsuagggaIw"
+          },
+          "name": {
+            "S": "Hi-Life"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.785573252956"
+              },
+              "longitude": {
+                "N": "-73.9763537724069"
+              }
+            }
+          },
+          "review_count": {
+            "N": "376"
+          },
+          "rating": {
+            "N": "4.0"
+          },
+          "zip_code": {
+            "N": "10024"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "477 Amsterdam Ave"
+              },
+              {
+                "S": "New York, NY 10024"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:34:29.183038"
+          }
+        }
+      }
+    }
+  ]
+}

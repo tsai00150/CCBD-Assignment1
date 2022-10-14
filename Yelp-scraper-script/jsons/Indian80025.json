@@ -1,0 +1,1101 @@
+{
+  "yelp-restaurants": [
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "He75cCzfQPUmASUUYNe5lg"
+          },
+          "name": {
+            "S": "Taj Curry Rolls"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.79768348144665"
+              },
+              "longitude": {
+                "N": "-74.14554618620186"
+              }
+            }
+          },
+          "review_count": {
+            "N": "1"
+          },
+          "rating": {
+            "N": "5.0"
+          },
+          "zip_code": {
+            "N": "07109"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "500 Cortlandt St"
+              },
+              {
+                "S": "Belleville, NJ 07109"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:12:46.324555"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "hlbihpX8g_mL5A2Wjj8unw"
+          },
+          "name": {
+            "S": "Kaieteur Bronx Restaurant & Bakery"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.89778982351"
+              },
+              "longitude": {
+                "N": "-73.8548576879766"
+              }
+            }
+          },
+          "review_count": {
+            "N": "20"
+          },
+          "rating": {
+            "N": "2.5"
+          },
+          "zip_code": {
+            "N": "10466"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "4379 White Plains Rd"
+              },
+              {
+                "S": "Bronx, NY 10466"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:12:46.327375"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "cxgM-1XqARYesvwqe7dW3Q"
+          },
+          "name": {
+            "S": "Porto peri Peri"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.89732221159609"
+              },
+              "longitude": {
+                "N": "-74.09553264251578"
+              }
+            }
+          },
+          "review_count": {
+            "N": "1"
+          },
+          "rating": {
+            "N": "1.0"
+          },
+          "zip_code": {
+            "N": "07663"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "383 Market St"
+              },
+              {
+                "S": "Saddle Brook, NJ 07663"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:12:46.329407"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "zTnmM6irhHZ8KrdFDtk3FQ"
+          },
+          "name": {
+            "S": "Al Amana Market"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.7334"
+              },
+              "longitude": {
+                "N": "-74.07166"
+              }
+            }
+          },
+          "review_count": {
+            "N": "5"
+          },
+          "rating": {
+            "N": "3.5"
+          },
+          "zip_code": {
+            "N": "07306"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "994 W Side Ave"
+              },
+              {
+                "S": "Jersey City, NJ 07306"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:12:46.331400"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "StFf9fVnAlhwrUWan0C4Ww"
+          },
+          "name": {
+            "S": "Wanisa Home Kitchen"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.687"
+              },
+              "longitude": {
+                "N": "-73.99042"
+              }
+            }
+          },
+          "review_count": {
+            "N": "195"
+          },
+          "rating": {
+            "N": "4.0"
+          },
+          "zip_code": {
+            "N": "11201"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "142 Smith St"
+              },
+              {
+                "S": "Brooklyn, NY 11201"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:12:46.334412"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "qI18SQBMcNTNo4ZqosfEig"
+          },
+          "name": {
+            "S": "Fitoor Cafe & Grill"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.7266456"
+              },
+              "longitude": {
+                "N": "-73.788371"
+              }
+            }
+          },
+          "review_count": {
+            "N": "95"
+          },
+          "rating": {
+            "N": "4.0"
+          },
+          "zip_code": {
+            "N": "11366"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "179-22 Union Tpke"
+              },
+              {
+                "S": "Fresh Meadows, NY 11366"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:12:46.337257"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "-E5PfobEXNQ_WC8Qv2wGJA"
+          },
+          "name": {
+            "S": "Halal China Kitchen Plus"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.7081726"
+              },
+              "longitude": {
+                "N": "-73.8032476"
+              }
+            }
+          },
+          "review_count": {
+            "N": "36"
+          },
+          "rating": {
+            "N": "4.0"
+          },
+          "zip_code": {
+            "N": "11432"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "87-48 Parsons Blvd"
+              },
+              {
+                "S": "Jamaica, NY 11432"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:12:46.339252"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "GgVSxkEzFRyAorxuODA1tQ"
+          },
+          "name": {
+            "S": "Masala Indian Cuisine"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.7353"
+              },
+              "longitude": {
+                "N": "-74.06465"
+              }
+            }
+          },
+          "review_count": {
+            "N": "2"
+          },
+          "rating": {
+            "N": "1.0"
+          },
+          "zip_code": {
+            "N": "07306"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "789 Newark Ave"
+              },
+              {
+                "S": "Jersey City, NJ 07306"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:12:46.341255"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "inHfE5Ti4T1Adoet3a2pPA"
+          },
+          "name": {
+            "S": "Verdure Vegan Jamaican Restaurant"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.634353"
+              },
+              "longitude": {
+                "N": "-73.914065"
+              }
+            }
+          },
+          "review_count": {
+            "N": "48"
+          },
+          "rating": {
+            "N": "4.5"
+          },
+          "zip_code": {
+            "N": "11236"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "7804 Flatlands Ave"
+              },
+              {
+                "S": "Brooklyn, NY 11236"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:12:46.344254"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "2l6f0IXKZkxyq0L4EaoaFQ"
+          },
+          "name": {
+            "S": "The Butcher's Daughter"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.720706862742"
+              },
+              "longitude": {
+                "N": "-73.9948451276474"
+              }
+            }
+          },
+          "review_count": {
+            "N": "1340"
+          },
+          "rating": {
+            "N": "3.5"
+          },
+          "zip_code": {
+            "N": "10012"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "19 Kenmare St"
+              },
+              {
+                "S": "New York, NY 10012"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:12:46.347254"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "xc5jT9-87-MOyom3d1DWRQ"
+          },
+          "name": {
+            "S": "Rose Bengal Food"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.68036"
+              },
+              "longitude": {
+                "N": "-73.8605199"
+              }
+            }
+          },
+          "review_count": {
+            "N": "2"
+          },
+          "rating": {
+            "N": "3.0"
+          },
+          "zip_code": {
+            "N": "11416"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "77-01 101st Ave"
+              },
+              {
+                "S": "Ozone Park, NY 11416"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:12:46.349256"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "zIp8N3qSklx2-ewVOAR0LA"
+          },
+          "name": {
+            "S": "Chatkhara Kabab"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.7522831"
+              },
+              "longitude": {
+                "N": "-73.8265136"
+              }
+            }
+          },
+          "review_count": {
+            "N": "6"
+          },
+          "rating": {
+            "N": "3.0"
+          },
+          "zip_code": {
+            "N": "11355"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "4311 Main St"
+              },
+              {
+                "S": "Flushing, NY 11355"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:12:46.352252"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "EA-Jp5-G61ohe3rj7ofssA"
+          },
+          "name": {
+            "S": "Gobo"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.640756"
+              },
+              "longitude": {
+                "N": "-73.9517815917247"
+              }
+            }
+          },
+          "review_count": {
+            "N": "11"
+          },
+          "rating": {
+            "N": "4.0"
+          },
+          "zip_code": {
+            "N": "11226"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "2620 Avenue D"
+              },
+              {
+                "S": "Brooklyn, NY 11226"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:12:46.354295"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "YjNTnLcoqPqblKpVV6kAkQ"
+          },
+          "name": {
+            "S": "Lennys West Indian Cookhouse"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.68506033235081"
+              },
+              "longitude": {
+                "N": "-73.82997223743439"
+              }
+            }
+          },
+          "review_count": {
+            "N": "1"
+          },
+          "rating": {
+            "N": "1.0"
+          },
+          "zip_code": {
+            "N": "11419"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "11206 Liberty Ave"
+              },
+              {
+                "S": "Richmond Hill, NY 11419"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:12:46.356330"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "DsW8a9zwKWXBA_xOqKO-yQ"
+          },
+          "name": {
+            "S": "Dao Palate"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.677953"
+              },
+              "longitude": {
+                "N": "-73.972753"
+              }
+            }
+          },
+          "review_count": {
+            "N": "246"
+          },
+          "rating": {
+            "N": "3.5"
+          },
+          "zip_code": {
+            "N": "11217"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "329 Flatbush Ave"
+              },
+              {
+                "S": "Brooklyn, NY 11217"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:12:46.359225"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "VyP6C-L9405boyQqWTN_mg"
+          },
+          "name": {
+            "S": "Daawat Restaurant"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.6792259216309"
+              },
+              "longitude": {
+                "N": "-73.8647689819336"
+              }
+            }
+          },
+          "review_count": {
+            "N": "4"
+          },
+          "rating": {
+            "N": "1.0"
+          },
+          "zip_code": {
+            "N": "11208"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "1211 Liberty Ave"
+              },
+              {
+                "S": "Brooklyn, NY 11208"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:12:46.361230"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "mLHy05eWKXl0pht9eVwbrQ"
+          },
+          "name": {
+            "S": "Gunpowder Cafe"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.71626663208008"
+              },
+              "longitude": {
+                "N": "-73.98758697509766"
+              }
+            }
+          },
+          "review_count": {
+            "N": "1"
+          },
+          "rating": {
+            "N": "2.0"
+          },
+          "zip_code": {
+            "N": "10002"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "New York, NY 10002"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:12:46.363224"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "7X3hB3KtkHVKk1GZKAnlbA"
+          },
+          "name": {
+            "S": "Woodside Cafe"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.74950530709463"
+              },
+              "longitude": {
+                "N": "-73.89772726011496"
+              }
+            }
+          },
+          "review_count": {
+            "N": "67"
+          },
+          "rating": {
+            "N": "3.0"
+          },
+          "zip_code": {
+            "N": "11377"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "64-23 Broadway"
+              },
+              {
+                "S": "Woodside, NY 11377"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:12:46.365738"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "XEN8cu1woUXfadkWBoxjRQ"
+          },
+          "name": {
+            "S": "Premium Sweets"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.7101171463728"
+              },
+              "longitude": {
+                "N": "-73.7945732474327"
+              }
+            }
+          },
+          "review_count": {
+            "N": "31"
+          },
+          "rating": {
+            "N": "2.5"
+          },
+          "zip_code": {
+            "N": "11432"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "168-03 Hillside Ave"
+              },
+              {
+                "S": "Jamaica, NY 11432"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:12:46.368747"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "IWCG03AW5yJ3i84ifDjXpw"
+          },
+          "name": {
+            "S": "Veggies Natural Juice Bar and Cafe"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.65767"
+              },
+              "longitude": {
+                "N": "-73.95014"
+              }
+            }
+          },
+          "review_count": {
+            "N": "47"
+          },
+          "rating": {
+            "N": "4.0"
+          },
+          "zip_code": {
+            "N": "11225"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "1209 Nostrand Ave"
+              },
+              {
+                "S": "Brooklyn, NY 11225"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:12:46.371746"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "QzPaA7e4O7iabpwr99pmiQ"
+          },
+          "name": {
+            "S": "Tawa Tandor"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.7475662231445"
+              },
+              "longitude": {
+                "N": "-73.8915100097656"
+              }
+            }
+          },
+          "review_count": {
+            "N": "4"
+          },
+          "rating": {
+            "N": "2.0"
+          },
+          "zip_code": {
+            "N": "11372"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "49 74th St"
+              },
+              {
+                "S": "New York, NY 11372"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:12:46.373743"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "EJPqwdHlr6smIgI5SFP6vg"
+          },
+          "name": {
+            "S": "Khan Baba Restaurant"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.7470142"
+              },
+              "longitude": {
+                "N": "-73.8911845"
+              }
+            }
+          },
+          "review_count": {
+            "N": "2"
+          },
+          "rating": {
+            "N": "2.5"
+          },
+          "zip_code": {
+            "N": "11372"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "7415 Roosevelt Ave"
+              },
+              {
+                "S": "Jackson Heights, NY 11372"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:12:46.376377"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "8YEW9Skc7m_Fl-7crFzPyQ"
+          },
+          "name": {
+            "S": "Premium Sweets & Restaurant"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.748407"
+              },
+              "longitude": {
+                "N": "-73.893013"
+              }
+            }
+          },
+          "review_count": {
+            "N": "59"
+          },
+          "rating": {
+            "N": "2.5"
+          },
+          "zip_code": {
+            "N": "11372"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "3714 73rd St"
+              },
+              {
+                "S": "Jackson Heights, NY 11372"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:12:46.378303"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "KagmtEnikPmbf0In5Kgkuw"
+          },
+          "name": {
+            "S": "Mezbani Sweets & Restaurant"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.64261"
+              },
+              "longitude": {
+                "N": "-73.97916"
+              }
+            }
+          },
+          "review_count": {
+            "N": "3"
+          },
+          "rating": {
+            "N": "2.5"
+          },
+          "zip_code": {
+            "N": "11218"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "473 McDonald Ave"
+              },
+              {
+                "S": "Brooklyn, NY 11218"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:12:46.380503"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "z8t9L9NbXyXVPCzYAjY05Q"
+          },
+          "name": {
+            "S": "Royal Fried Chicken"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.6563299"
+              },
+              "longitude": {
+                "N": "-73.91508"
+              }
+            }
+          },
+          "review_count": {
+            "N": "4"
+          },
+          "rating": {
+            "N": "3.0"
+          },
+          "zip_code": {
+            "N": "11212"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "496 Rockaway Pkwy"
+              },
+              {
+                "S": "Brooklyn, NY 11212"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:12:46.382607"
+          }
+        }
+      }
+    }
+  ]
+}

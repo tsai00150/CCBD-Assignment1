@@ -1,0 +1,1119 @@
+{
+  "yelp-restaurants": [
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "Nc7l1XSiMpf51MzQSPSzFA"
+          },
+          "name": {
+            "S": "Kuku Chicken"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.743818"
+              },
+              "longitude": {
+                "N": "-73.950631"
+              }
+            }
+          },
+          "review_count": {
+            "N": "108"
+          },
+          "rating": {
+            "N": "4.5"
+          },
+          "zip_code": {
+            "N": "11101"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "1209 Jackson Ave"
+              },
+              {
+                "S": "Long Island City, NY 11101"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:18:51.414554"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "Pr-q47vsmM4aoc2t_Sfk8w"
+          },
+          "name": {
+            "S": "Momofuku Noodle Bar - Uptown"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.76802583631109"
+              },
+              "longitude": {
+                "N": "-73.9829243"
+              }
+            }
+          },
+          "review_count": {
+            "N": "461"
+          },
+          "rating": {
+            "N": "4.0"
+          },
+          "zip_code": {
+            "N": "10019"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "10 Columbus Cir"
+              },
+              {
+                "S": "Third Floor"
+              },
+              {
+                "S": "New York, NY 10019"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:18:51.419104"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "OFfZUS-nu6NDnsWe1B2bUQ"
+          },
+          "name": {
+            "S": "Tonchin"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.7502727"
+              },
+              "longitude": {
+                "N": "-73.9844951"
+              }
+            }
+          },
+          "review_count": {
+            "N": "1691"
+          },
+          "rating": {
+            "N": "4.5"
+          },
+          "zip_code": {
+            "N": "10018"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "13 W 36th St"
+              },
+              {
+                "S": "New York, NY 10018"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:18:51.426511"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "iYjIBo73l5UHRfQGBaZaEg"
+          },
+          "name": {
+            "S": "Little Dokebi"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.723048"
+              },
+              "longitude": {
+                "N": "-73.942335"
+              }
+            }
+          },
+          "review_count": {
+            "N": "155"
+          },
+          "rating": {
+            "N": "4.0"
+          },
+          "zip_code": {
+            "N": "11222"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "85 Driggs Ave"
+              },
+              {
+                "S": "Brooklyn, NY 11222"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:18:51.433105"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "PWxky1zhv7gqdhXi8Pk6DA"
+          },
+          "name": {
+            "S": "Caf\u00e9 Salmagundi"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.7362"
+              },
+              "longitude": {
+                "N": "-73.987525"
+              }
+            }
+          },
+          "review_count": {
+            "N": "58"
+          },
+          "rating": {
+            "N": "4.0"
+          },
+          "zip_code": {
+            "N": "10003"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "51 Irving Pl"
+              },
+              {
+                "S": "New York, NY 10003"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:18:51.440107"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "lJCW47cV6-0rXtQF9EAsuw"
+          },
+          "name": {
+            "S": "Koko Wings & Cajun Seafood -  East Village"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.72972"
+              },
+              "longitude": {
+                "N": "-73.98354"
+              }
+            }
+          },
+          "review_count": {
+            "N": "89"
+          },
+          "rating": {
+            "N": "4.0"
+          },
+          "zip_code": {
+            "N": "10009"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "192 1st Ave"
+              },
+              {
+                "S": "New York, NY 10009"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:18:51.447104"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "BIjqonwpbOqn-YRxFqcNPg"
+          },
+          "name": {
+            "S": "Dokebi Bar & Grill"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.71421"
+              },
+              "longitude": {
+                "N": "-73.9603"
+              }
+            }
+          },
+          "review_count": {
+            "N": "419"
+          },
+          "rating": {
+            "N": "3.5"
+          },
+          "zip_code": {
+            "N": "11211"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "199 Grand St"
+              },
+              {
+                "S": "Brooklyn, NY 11211"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:18:51.454107"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "flHcoaHEWxACgc-Vk9MsOQ"
+          },
+          "name": {
+            "S": "Jukai"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.75718"
+              },
+              "longitude": {
+                "N": "-73.9678837692742"
+              }
+            }
+          },
+          "review_count": {
+            "N": "176"
+          },
+          "rating": {
+            "N": "4.0"
+          },
+          "zip_code": {
+            "N": "10022"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "237 E 53rd St"
+              },
+              {
+                "S": "New York, NY 10022"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:18:51.461073"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "T-t9GtsWKU7LZV7jloCTuA"
+          },
+          "name": {
+            "S": "Ta-Da Chicken"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.7539221"
+              },
+              "longitude": {
+                "N": "-73.9845647"
+              }
+            }
+          },
+          "review_count": {
+            "N": "2"
+          },
+          "rating": {
+            "N": "4.0"
+          },
+          "zip_code": {
+            "N": "10018"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "1080 6th Ave"
+              },
+              {
+                "S": "New York, NY 10018"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:18:51.467126"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "mlm40NxsVJUPnh3LTayaaw"
+          },
+          "name": {
+            "S": "Kimika"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.720572"
+              },
+              "longitude": {
+                "N": "-73.995206"
+              }
+            }
+          },
+          "review_count": {
+            "N": "299"
+          },
+          "rating": {
+            "N": "4.0"
+          },
+          "zip_code": {
+            "N": "10012"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "40 Kenmare St"
+              },
+              {
+                "S": "New York, NY 10012"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:18:51.475131"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "7OMGEtFWT6sdd9TVuoGqJQ"
+          },
+          "name": {
+            "S": "Okonomi"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.712622"
+              },
+              "longitude": {
+                "N": "-73.9487843"
+              }
+            }
+          },
+          "review_count": {
+            "N": "489"
+          },
+          "rating": {
+            "N": "4.5"
+          },
+          "zip_code": {
+            "N": "11211"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "150 Ainslie St"
+              },
+              {
+                "S": "Brooklyn, NY 11211"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:18:51.481332"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "MGnPEB_q0DICnIRR0ulSzA"
+          },
+          "name": {
+            "S": "Daeji Ssonday Bbq Restaurant"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.824592"
+              },
+              "longitude": {
+                "N": "-74.011078"
+              }
+            }
+          },
+          "review_count": {
+            "N": "95"
+          },
+          "rating": {
+            "N": "4.0"
+          },
+          "zip_code": {
+            "N": "07657"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "321 Broad Ave"
+              },
+              {
+                "S": "Ridgefield, NJ 07657"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:18:51.489227"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "2jkR9i54loLxuaowoPX5Fw"
+          },
+          "name": {
+            "S": "Kimbap Lab"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.71611"
+              },
+              "longitude": {
+                "N": "-73.95974"
+              }
+            }
+          },
+          "review_count": {
+            "N": "58"
+          },
+          "rating": {
+            "N": "4.5"
+          },
+          "zip_code": {
+            "N": "11249"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "238 Bedford Ave"
+              },
+              {
+                "S": "Brooklyn, NY 11249"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:18:51.496509"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "r6r-XK_wL02FQdAgaauTxg"
+          },
+          "name": {
+            "S": "Kame"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.7474881059799"
+              },
+              "longitude": {
+                "N": "-73.996648862958"
+              }
+            }
+          },
+          "review_count": {
+            "N": "632"
+          },
+          "rating": {
+            "N": "4.5"
+          },
+          "zip_code": {
+            "N": "10001"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "330 8th Ave"
+              },
+              {
+                "S": "New York, NY 10001"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:18:51.504229"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "wjIyCBEpCG_HRp8veiI0YQ"
+          },
+          "name": {
+            "S": "Ootoya Times Square"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.75487"
+              },
+              "longitude": {
+                "N": "-73.98599"
+              }
+            }
+          },
+          "review_count": {
+            "N": "1044"
+          },
+          "rating": {
+            "N": "4.0"
+          },
+          "zip_code": {
+            "N": "10036"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "141 W 41st St"
+              },
+              {
+                "S": "New York, NY 10036"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:18:51.511460"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "0FOE_TW-91b9wN661lZMyQ"
+          },
+          "name": {
+            "S": "mokbar"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.74222"
+              },
+              "longitude": {
+                "N": "-74.005913"
+              }
+            }
+          },
+          "review_count": {
+            "N": "608"
+          },
+          "rating": {
+            "N": "3.5"
+          },
+          "zip_code": {
+            "N": "10011"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "75 9th Ave"
+              },
+              {
+                "S": "New York, NY 10011"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:18:51.518368"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "YC-wGlO0oOkEIaCEDZv-ag"
+          },
+          "name": {
+            "S": "Yakitori Totto"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.765375"
+              },
+              "longitude": {
+                "N": "-73.983114"
+              }
+            }
+          },
+          "review_count": {
+            "N": "1403"
+          },
+          "rating": {
+            "N": "4.0"
+          },
+          "zip_code": {
+            "N": "10019"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "251 W 55th St"
+              },
+              {
+                "S": "Fl 2"
+              },
+              {
+                "S": "New York, NY 10019"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:18:51.525444"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "sckKTPAj3_sg7HQsJIq2yw"
+          },
+          "name": {
+            "S": "So Kong Dong"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.85056"
+              },
+              "longitude": {
+                "N": "-73.96702"
+              }
+            }
+          },
+          "review_count": {
+            "N": "774"
+          },
+          "rating": {
+            "N": "4.0"
+          },
+          "zip_code": {
+            "N": "07024"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "130 Main St"
+              },
+              {
+                "S": "Fort Lee, NJ 07024"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:18:51.532353"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "eyjeP9CJZ_gYgeJFP_vtpQ"
+          },
+          "name": {
+            "S": "Karasu"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.68937279085807"
+              },
+              "longitude": {
+                "N": "-73.9732461"
+              }
+            }
+          },
+          "review_count": {
+            "N": "108"
+          },
+          "rating": {
+            "N": "4.0"
+          },
+          "zip_code": {
+            "N": "11217"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "166 Dekalb Ave"
+              },
+              {
+                "S": "Walter's"
+              },
+              {
+                "S": "Brooklyn, NY 11217"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:18:51.538320"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "y_ylOQzCP-9D_4DcUIJ3jA"
+          },
+          "name": {
+            "S": "Shabu Tatsu East Village"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.729147"
+              },
+              "longitude": {
+                "N": "-73.985906"
+              }
+            }
+          },
+          "review_count": {
+            "N": "660"
+          },
+          "rating": {
+            "N": "4.0"
+          },
+          "zip_code": {
+            "N": "10003"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "216 E 10th St"
+              },
+              {
+                "S": "New York, NY 10003"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:18:51.545376"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "wx5XkAsviabyZdQma64Fyw"
+          },
+          "name": {
+            "S": "Gaonnuri"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.74757"
+              },
+              "longitude": {
+                "N": "-73.98802"
+              }
+            }
+          },
+          "review_count": {
+            "N": "932"
+          },
+          "rating": {
+            "N": "3.5"
+          },
+          "zip_code": {
+            "N": "10001"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "1250 Broadway"
+              },
+              {
+                "S": "Fl 39"
+              },
+              {
+                "S": "New York, NY 10001"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:18:51.552501"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "BPErPpKSNluwcjbKRgze3w"
+          },
+          "name": {
+            "S": "Xi'an Famous Foods"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.77197"
+              },
+              "longitude": {
+                "N": "-73.95452"
+              }
+            }
+          },
+          "review_count": {
+            "N": "633"
+          },
+          "rating": {
+            "N": "4.0"
+          },
+          "zip_code": {
+            "N": "10075"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "328 E 78th St"
+              },
+              {
+                "S": "New York, NY 10075"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:18:51.559355"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "vec8jeVbbSGzVlStl0Xp_Q"
+          },
+          "name": {
+            "S": "Chikarashi"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.71792477072888"
+              },
+              "longitude": {
+                "N": "-73.99945752883555"
+              }
+            }
+          },
+          "review_count": {
+            "N": "508"
+          },
+          "rating": {
+            "N": "4.0"
+          },
+          "zip_code": {
+            "N": "10013"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "227 Canal St"
+              },
+              {
+                "S": "New York, NY 10013"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:18:51.565933"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "vMTJsNMw5JtrLoN1cilFzQ"
+          },
+          "name": {
+            "S": "Jang Dok Dae"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.75313112896305"
+              },
+              "longitude": {
+                "N": "-73.79288690859414"
+              }
+            }
+          },
+          "review_count": {
+            "N": "91"
+          },
+          "rating": {
+            "N": "4.5"
+          },
+          "zip_code": {
+            "N": "11358"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "172-14 46 Ave"
+              },
+              {
+                "S": "Fl 1"
+              },
+              {
+                "S": "Flushing, NY 11358"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:18:51.572955"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "vQ2MwpkjcrF7uxs87oMeyw"
+          },
+          "name": {
+            "S": "Noona Noodles"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.74761"
+              },
+              "longitude": {
+                "N": "-73.98631"
+              }
+            }
+          },
+          "review_count": {
+            "N": "100"
+          },
+          "rating": {
+            "N": "4.0"
+          },
+          "zip_code": {
+            "N": "10001"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "11 W 32nd St"
+              },
+              {
+                "S": "New York, NY 10001"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:18:51.580442"
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,629 @@
+{
+  "yelp-restaurants": [
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "qj4gZjx1ujn3BbxcANVyZg"
+          },
+          "name": {
+            "S": "Dulcinea Churros"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.690810819864"
+              },
+              "longitude": {
+                "N": "-73.9830908055573"
+              }
+            }
+          },
+          "review_count": {
+            "N": "63"
+          },
+          "rating": {
+            "N": "3.5"
+          },
+          "zip_code": {
+            "N": "11201"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "445 Albee Square W Brooklyn Ny 11201"
+              },
+              {
+                "S": "Brooklyn, NY 11201"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:17:27.438676"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "KeTnB4wiSKj_45Cf2JnYjA"
+          },
+          "name": {
+            "S": "Croque Madame"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.646213"
+              },
+              "longitude": {
+                "N": "-73.777703"
+              }
+            }
+          },
+          "review_count": {
+            "N": "30"
+          },
+          "rating": {
+            "N": "2.0"
+          },
+          "zip_code": {
+            "N": "11422"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "Terminal 5"
+              },
+              {
+                "S": "JFK International Airport"
+              },
+              {
+                "S": "Jamaica, NY 11422"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:17:27.448054"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "kPwydmpHg_8Tixf37DUfKw"
+          },
+          "name": {
+            "S": "J-Petal"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.6460099"
+              },
+              "longitude": {
+                "N": "-74.00902"
+              }
+            }
+          },
+          "review_count": {
+            "N": "46"
+          },
+          "rating": {
+            "N": "4.0"
+          },
+          "zip_code": {
+            "N": "11217"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "4801 5th Ave"
+              },
+              {
+                "S": "Brooklyn, NY 11217"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:17:27.461023"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "FR_E9_Z3WG5HjeIUyTKSWw"
+          },
+          "name": {
+            "S": "Antonio's Kitchen"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.7704153034747"
+              },
+              "longitude": {
+                "N": "-73.8933003575181"
+              }
+            }
+          },
+          "review_count": {
+            "N": "139"
+          },
+          "rating": {
+            "N": "3.5"
+          },
+          "zip_code": {
+            "N": "11370"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "76-08 21st Ave"
+              },
+              {
+                "S": "East Elmhurst, NY 11370"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:17:27.472792"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "ambo5RFAp1bgZEkn0XAqmA"
+          },
+          "name": {
+            "S": "Vive La Crepe"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.7221"
+              },
+              "longitude": {
+                "N": "-73.99642"
+              }
+            }
+          },
+          "review_count": {
+            "N": "357"
+          },
+          "rating": {
+            "N": "3.5"
+          },
+          "zip_code": {
+            "N": "10012"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "51 Spring St"
+              },
+              {
+                "S": "New York, NY 10012"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:17:27.482190"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "ZgIs3x73_b29wiwPMIiOnQ"
+          },
+          "name": {
+            "S": "Panino Rustico of Mill Basin"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.619645"
+              },
+              "longitude": {
+                "N": "-73.919084"
+              }
+            }
+          },
+          "review_count": {
+            "N": "101"
+          },
+          "rating": {
+            "N": "4.5"
+          },
+          "zip_code": {
+            "N": "11234"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "5801 Ave N"
+              },
+              {
+                "S": "Brooklyn, NY 11234"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:17:27.492259"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "WtDv2n_4iE61TAraKIK7Tw"
+          },
+          "name": {
+            "S": "Le Grand Comptoir"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.6451717050564"
+              },
+              "longitude": {
+                "N": "-73.7804240149123"
+              }
+            }
+          },
+          "review_count": {
+            "N": "66"
+          },
+          "rating": {
+            "N": "2.5"
+          },
+          "zip_code": {
+            "N": "11430"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "Delta Terminal 4"
+              },
+              {
+                "S": "JFK International Airport"
+              },
+              {
+                "S": "Queens, NY 11430"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:17:27.503335"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "0K14fz91-JSZd-wselihxA"
+          },
+          "name": {
+            "S": "Basil"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.6701630483264"
+              },
+              "longitude": {
+                "N": "-73.9421222019838"
+              }
+            }
+          },
+          "review_count": {
+            "N": "247"
+          },
+          "rating": {
+            "N": "3.0"
+          },
+          "zip_code": {
+            "N": "11213"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "270 Kingston Ave"
+              },
+              {
+                "S": "Brooklyn, NY 11213"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:17:27.511439"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "m5K6ZfIDxVIVFxInVvJEDA"
+          },
+          "name": {
+            "S": "Mr Bruno's Pizzeria & Restaurant"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.8122883853314"
+              },
+              "longitude": {
+                "N": "-74.1221183599439"
+              }
+            }
+          },
+          "review_count": {
+            "N": "268"
+          },
+          "rating": {
+            "N": "3.0"
+          },
+          "zip_code": {
+            "N": "07071"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "439 Valley Brook Ave"
+              },
+              {
+                "S": "Lyndhurst, NJ 07071"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:17:27.518330"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "jSObVbrCTn9-EcSgeU7oUg"
+          },
+          "name": {
+            "S": "Caviar House & Prunier"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.6438244982224"
+              },
+              "longitude": {
+                "N": "-73.7807209789754"
+              }
+            }
+          },
+          "review_count": {
+            "N": "38"
+          },
+          "rating": {
+            "N": "3.5"
+          },
+          "zip_code": {
+            "N": "11430"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "Jfk International Airport"
+              },
+              {
+                "S": "Terminal 4"
+              },
+              {
+                "S": "New York, NY 11430"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:17:27.526527"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "oX12m7ZVHi8J4Es5rS6tdw"
+          },
+          "name": {
+            "S": "Tornado Crepe"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.700023"
+              },
+              "longitude": {
+                "N": "-73.9027123"
+              }
+            }
+          },
+          "review_count": {
+            "N": "53"
+          },
+          "rating": {
+            "N": "4.0"
+          },
+          "zip_code": {
+            "N": "11385"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "1808 Weirfield St"
+              },
+              {
+                "S": "New York, NY 11385"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:17:27.533532"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "SNVjVR0jADcxZOZrNZtABQ"
+          },
+          "name": {
+            "S": "Allegro Seafood Grill"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.72383"
+              },
+              "longitude": {
+                "N": "-74.14804"
+              }
+            }
+          },
+          "review_count": {
+            "N": "157"
+          },
+          "rating": {
+            "N": "3.5"
+          },
+          "zip_code": {
+            "N": "07105"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "58 Kossuth St"
+              },
+              {
+                "S": "Newark, NJ 07105"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:17:27.541143"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "k1pKlK5G5LTv5Y-hT8ni8A"
+          },
+          "name": {
+            "S": "Yogurt La Crepe"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.776565"
+              },
+              "longitude": {
+                "N": "-73.911788"
+              }
+            }
+          },
+          "review_count": {
+            "N": "126"
+          },
+          "rating": {
+            "N": "3.5"
+          },
+          "zip_code": {
+            "N": "11105"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "2902 Ditmars Blvd"
+              },
+              {
+                "S": "Astoria, NY 11105"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:17:27.549176"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "-5JwknVLIT36YTGhvkuBaw"
+          },
+          "name": {
+            "S": "Mamajuana Cafe The Bronx"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.8357557"
+              },
+              "longitude": {
+                "N": "-73.8329151"
+              }
+            }
+          },
+          "review_count": {
+            "N": "394"
+          },
+          "rating": {
+            "N": "2.5"
+          },
+          "zip_code": {
+            "N": "10461"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "3233 E Tremont Ave"
+              },
+              {
+                "S": "Bronx, NY 10461"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:17:27.555708"
+          }
+        }
+      }
+    }
+  ]
+}

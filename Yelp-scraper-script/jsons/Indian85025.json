@@ -1,0 +1,400 @@
+{
+  "yelp-restaurants": [
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "AV5AIT9SbT9susQryxVtjg"
+          },
+          "name": {
+            "S": "Rama's Roti Shop"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.651039"
+              },
+              "longitude": {
+                "N": "-73.950333"
+              }
+            }
+          },
+          "review_count": {
+            "N": "26"
+          },
+          "rating": {
+            "N": "2.5"
+          },
+          "zip_code": {
+            "N": "11226"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "2831 Church Ave"
+              },
+              {
+                "S": "New York, NY 11226"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:12:47.732330"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "KSzNIueYgSIipZhcDgXovQ"
+          },
+          "name": {
+            "S": "Afghan Kebab & Grill"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.7488353"
+              },
+              "longitude": {
+                "N": "-73.8914734"
+              }
+            }
+          },
+          "review_count": {
+            "N": "100"
+          },
+          "rating": {
+            "N": "3.0"
+          },
+          "zip_code": {
+            "N": "11372"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "74-16 37th Ave"
+              },
+              {
+                "S": "Jackson Heights, NY 11372"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:12:47.734367"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "k6C1yxzWz07p6AYAV5pgDQ"
+          },
+          "name": {
+            "S": "Veggies Natural Juice Bar"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.671975"
+              },
+              "longitude": {
+                "N": "-73.9571799"
+              }
+            }
+          },
+          "review_count": {
+            "N": "157"
+          },
+          "rating": {
+            "N": "4.0"
+          },
+          "zip_code": {
+            "N": "11238"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "785 Franklin Ave"
+              },
+              {
+                "S": "Brooklyn, NY 11238"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:12:47.737141"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "b7cwwjX2vT0v-xc2mySYgw"
+          },
+          "name": {
+            "S": "Gyro Express"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.7081909"
+              },
+              "longitude": {
+                "N": "-73.8032684"
+              }
+            }
+          },
+          "review_count": {
+            "N": "9"
+          },
+          "rating": {
+            "N": "2.5"
+          },
+          "zip_code": {
+            "N": "11432"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "87-44 Parsons Blvd"
+              },
+              {
+                "S": "Jamaica, NY 11432"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:12:47.740104"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "uXtaduMyk2oGdnHYR4ZafA"
+          },
+          "name": {
+            "S": "Vegetarian Palate"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.679648"
+              },
+              "longitude": {
+                "N": "-73.963867"
+              }
+            }
+          },
+          "review_count": {
+            "N": "208"
+          },
+          "rating": {
+            "N": "4.0"
+          },
+          "zip_code": {
+            "N": "11238"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "603 Washington Ave"
+              },
+              {
+                "S": "Brooklyn, NY 11238"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:12:47.743103"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "F4lLNqPJULJbiIm5CeoE9g"
+          },
+          "name": {
+            "S": "Sagar Chinese - Jamaica"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.7113002"
+              },
+              "longitude": {
+                "N": "-73.7928273"
+              }
+            }
+          },
+          "review_count": {
+            "N": "176"
+          },
+          "rating": {
+            "N": "3.0"
+          },
+          "zip_code": {
+            "N": "11432"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "87-47 Homelawn St"
+              },
+              {
+                "S": "Jamaica, NY 11432"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:12:47.745121"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "qEXpXF4p8uM1BfqV5tdYqg"
+          },
+          "name": {
+            "S": "Darbars Chicken & Ribs"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.688737"
+              },
+              "longitude": {
+                "N": "-73.8181408"
+              }
+            }
+          },
+          "review_count": {
+            "N": "135"
+          },
+          "rating": {
+            "N": "3.5"
+          },
+          "zip_code": {
+            "N": "11419"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "12609 Liberty Ave"
+              },
+              {
+                "S": "South Richmond Hill, NY 11419"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:12:47.749130"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "UbLsVnix6_MZ-a7uRB_c-w"
+          },
+          "name": {
+            "S": "Punchline Juice Bar"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.6765631585663"
+              },
+              "longitude": {
+                "N": "-73.9500241"
+              }
+            }
+          },
+          "review_count": {
+            "N": "86"
+          },
+          "rating": {
+            "N": "4.5"
+          },
+          "zip_code": {
+            "N": "11216"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "638 Nostrand Ave"
+              },
+              {
+                "S": "Brooklyn, NY 11216"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:12:47.752235"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "7UGe9o7newIcSlsDwzmdsg"
+          },
+          "name": {
+            "S": "\"D\" Edge Deli & Food Basket"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.69854"
+              },
+              "longitude": {
+                "N": "-73.8069"
+              }
+            }
+          },
+          "review_count": {
+            "N": "8"
+          },
+          "rating": {
+            "N": "4.0"
+          },
+          "zip_code": {
+            "N": "11435"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "94-14 Sutphin Blvd"
+              },
+              {
+                "S": "Jamaica, NY 11435"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:12:47.754129"
+          }
+        }
+      }
+    }
+  ]
+}

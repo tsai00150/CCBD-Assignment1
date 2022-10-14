@@ -1,0 +1,1104 @@
+{
+  "yelp-restaurants": [
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "hnLzJJ7XkxB3LLoxTk0ahQ"
+          },
+          "name": {
+            "S": "Chennai Flavors Food Truck"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.7188518"
+              },
+              "longitude": {
+                "N": "-74.0394678"
+              }
+            }
+          },
+          "review_count": {
+            "N": "9"
+          },
+          "rating": {
+            "N": "4.0"
+          },
+          "zip_code": {
+            "N": "07302"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "50 Christopher Columbus Dr"
+              },
+              {
+                "S": "Jersey City, NJ 07302"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:12:44.957178"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "qf098TQ-Frxq4QyrlYqDJw"
+          },
+          "name": {
+            "S": "Hazar Turkish Kebab"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.631191"
+              },
+              "longitude": {
+                "N": "-74.022193"
+              }
+            }
+          },
+          "review_count": {
+            "N": "173"
+          },
+          "rating": {
+            "N": "3.5"
+          },
+          "zip_code": {
+            "N": "11209"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "7224 5th Ave"
+              },
+              {
+                "S": "Brooklyn, NY 11209"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:12:44.958940"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "TFE8EAjOqkrHYM9jH6De0A"
+          },
+          "name": {
+            "S": "Namaste Tashi Delek"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.7470984"
+              },
+              "longitude": {
+                "N": "-73.8917629"
+              }
+            }
+          },
+          "review_count": {
+            "N": "46"
+          },
+          "rating": {
+            "N": "3.5"
+          },
+          "zip_code": {
+            "N": "11372"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "37-66 74th St"
+              },
+              {
+                "S": "Jackson Heights, NY 11372"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:12:44.967198"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "2At9cxG4uLElc_INpAe0Lw"
+          },
+          "name": {
+            "S": "Gyro Cafe"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.6431503295898"
+              },
+              "longitude": {
+                "N": "-73.9701995849609"
+              }
+            }
+          },
+          "review_count": {
+            "N": "98"
+          },
+          "rating": {
+            "N": "4.0"
+          },
+          "zip_code": {
+            "N": "11218"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "580 Coney Island Ave"
+              },
+              {
+                "S": "Brooklyn, NY 11218"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:12:44.971476"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "nfUDBgJ_5fDNT39wPYxLDQ"
+          },
+          "name": {
+            "S": "Royal Grill"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.755885"
+              },
+              "longitude": {
+                "N": "-73.983724"
+              }
+            }
+          },
+          "review_count": {
+            "N": "1"
+          },
+          "rating": {
+            "N": "3.0"
+          },
+          "zip_code": {
+            "N": "10036"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "1133 6th Ave"
+              },
+              {
+                "S": "New York, NY 10036"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:12:44.975258"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "ZmwskbRC5Fcu0YJoLjNEzg"
+          },
+          "name": {
+            "S": "Jagdish Farshan"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.735579"
+              },
+              "longitude": {
+                "N": "-74.065862"
+              }
+            }
+          },
+          "review_count": {
+            "N": "2"
+          },
+          "rating": {
+            "N": "1.0"
+          },
+          "zip_code": {
+            "N": "07306"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "821 Newark Ave"
+              },
+              {
+                "S": "Jersey City, NJ 07306"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:12:44.978269"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "FJFliqqHXFZutkp_dmWdfw"
+          },
+          "name": {
+            "S": "Zen Vegetarian House"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.65396"
+              },
+              "longitude": {
+                "N": "-73.95937"
+              }
+            }
+          },
+          "review_count": {
+            "N": "298"
+          },
+          "rating": {
+            "N": "4.0"
+          },
+          "zip_code": {
+            "N": "11226"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "773 Flatbush Ave"
+              },
+              {
+                "S": "Brooklyn, NY 11226"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:12:44.981301"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "DU_z_ypJ1j3hoRrkTqQpEQ"
+          },
+          "name": {
+            "S": "Aria Kabab"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.72771"
+              },
+              "longitude": {
+                "N": "-73.81285"
+              }
+            }
+          },
+          "review_count": {
+            "N": "88"
+          },
+          "rating": {
+            "N": "3.5"
+          },
+          "zip_code": {
+            "N": "11367"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "7255 Kissena Blvd"
+              },
+              {
+                "S": "Flushing, NY 11367"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:12:44.983302"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "7aH8qPfHxuy9Hub5Q8GKFw"
+          },
+          "name": {
+            "S": "Tibet Kitchen"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.7471014"
+              },
+              "longitude": {
+                "N": "-73.8909012"
+              }
+            }
+          },
+          "review_count": {
+            "N": "16"
+          },
+          "rating": {
+            "N": "4.5"
+          },
+          "zip_code": {
+            "N": "11372"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "74-15 Roosevelt Ave"
+              },
+              {
+                "S": "Jackson Heights, NY 11372"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:12:44.987271"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "1-4W4i1fj9rp0Blrg0Q1zg"
+          },
+          "name": {
+            "S": "Aroma Brazil Restaurant"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.7472120454333"
+              },
+              "longitude": {
+                "N": "-73.8900118"
+              }
+            }
+          },
+          "review_count": {
+            "N": "134"
+          },
+          "rating": {
+            "N": "4.5"
+          },
+          "zip_code": {
+            "N": "11372"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "75-13 Roosevelt Ave"
+              },
+              {
+                "S": "Jackson Heights, NY 11372"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:12:44.989299"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "0A1hofERxPqGyOHk6KvrJA"
+          },
+          "name": {
+            "S": "Tandoori Tadka"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.734925"
+              },
+              "longitude": {
+                "N": "-74.061316"
+              }
+            }
+          },
+          "review_count": {
+            "N": "4"
+          },
+          "rating": {
+            "N": "3.0"
+          },
+          "zip_code": {
+            "N": "07306"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "713 Newark Ave"
+              },
+              {
+                "S": "Jersey City, NJ 07306"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:12:44.992452"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "busL3obPpNkF5a9ISfO5wQ"
+          },
+          "name": {
+            "S": "Ujala Kabab Restaurant 2"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.734945"
+              },
+              "longitude": {
+                "N": "-74.0612918"
+              }
+            }
+          },
+          "review_count": {
+            "N": "3"
+          },
+          "rating": {
+            "N": "3.5"
+          },
+          "zip_code": {
+            "N": "07306"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "713 Newark Ave"
+              },
+              {
+                "S": "Jersey City, NJ 07306"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:12:44.994266"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "hSiTqxKKgvQSI5x5VdMjoQ"
+          },
+          "name": {
+            "S": "Top Thai Restaurant"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.62325"
+              },
+              "longitude": {
+                "N": "-74.02838"
+              }
+            }
+          },
+          "review_count": {
+            "N": "339"
+          },
+          "rating": {
+            "N": "3.5"
+          },
+          "zip_code": {
+            "N": "11209"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "8510 4th Ave"
+              },
+              {
+                "S": "Brooklyn, NY 11209"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:12:44.996268"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "elvL_HW9jfLLDVhwoIx_Ww"
+          },
+          "name": {
+            "S": "Veggie Castle II"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.6908513035417"
+              },
+              "longitude": {
+                "N": "-73.8138093799353"
+              }
+            }
+          },
+          "review_count": {
+            "N": "518"
+          },
+          "rating": {
+            "N": "4.5"
+          },
+          "zip_code": {
+            "N": "11419"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "13209 Liberty Ave"
+              },
+              {
+                "S": "South Richmond Hill, NY 11419"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:12:44.999265"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "-DT3bduqJca_u3DGDarUkw"
+          },
+          "name": {
+            "S": "Laziz International Inc"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.7417946"
+              },
+              "longitude": {
+                "N": "-73.9827194"
+              }
+            }
+          },
+          "review_count": {
+            "N": "9"
+          },
+          "rating": {
+            "N": "2.5"
+          },
+          "zip_code": {
+            "N": "10016"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "134 E 27th St"
+              },
+              {
+                "S": "New York, NY 10016"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:12:45.001354"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "e_Ee9lzCrTTjghDepvbM9Q"
+          },
+          "name": {
+            "S": "Taste of India"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.6917153"
+              },
+              "longitude": {
+                "N": "-73.811519"
+              }
+            }
+          },
+          "review_count": {
+            "N": "1"
+          },
+          "rating": {
+            "N": "2.0"
+          },
+          "zip_code": {
+            "N": "11419"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "135-08 Liberty Ave"
+              },
+              {
+                "S": "South Richmond Hill, NY 11419"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:12:45.004299"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "VLQrI-Qua7Ok02fAAuwvAA"
+          },
+          "name": {
+            "S": "Shandar Sweet & Restaurant"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.64094"
+              },
+              "longitude": {
+                "N": "-73.9689"
+              }
+            }
+          },
+          "review_count": {
+            "N": "22"
+          },
+          "rating": {
+            "N": "3.5"
+          },
+          "zip_code": {
+            "N": "11218"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "679 Coney Island Ave"
+              },
+              {
+                "S": "Brooklyn, NY 11218"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:12:45.006315"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "5g7Kz9ffnv7t47oaomIlqA"
+          },
+          "name": {
+            "S": "Singh's Roti Shop & Bar"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.6901083"
+              },
+              "longitude": {
+                "N": "-73.8144673"
+              }
+            }
+          },
+          "review_count": {
+            "N": "282"
+          },
+          "rating": {
+            "N": "3.5"
+          },
+          "zip_code": {
+            "N": "11419"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "13118 Liberty Ave"
+              },
+              {
+                "S": "South Richmond Hill, NY 11419"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:12:45.009298"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "cOnQnP9GwyvhQjCJbSz5Fg"
+          },
+          "name": {
+            "S": "Mahboob-e-Elahi"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.723083"
+              },
+              "longitude": {
+                "N": "-74.060844"
+              }
+            }
+          },
+          "review_count": {
+            "N": "11"
+          },
+          "rating": {
+            "N": "3.5"
+          },
+          "zip_code": {
+            "N": "07302"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "580 Montgomery St"
+              },
+              {
+                "S": "Jersey City, NJ 07302"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:12:45.011417"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "XmF1jvsDpS49sy040Uge4A"
+          },
+          "name": {
+            "S": "Tikka Cravings"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.7352"
+              },
+              "longitude": {
+                "N": "-74.06727"
+              }
+            }
+          },
+          "review_count": {
+            "N": "1"
+          },
+          "rating": {
+            "N": "4.0"
+          },
+          "zip_code": {
+            "N": "07306"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "117 Tonnelle Ave"
+              },
+              {
+                "S": "Jersey City, NJ 07306"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:12:45.013268"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "1ygF7_9FSHLdKimdiS8xeA"
+          },
+          "name": {
+            "S": "Shaheen Sweets"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.7094341"
+              },
+              "longitude": {
+                "N": "-73.7756475"
+              }
+            }
+          },
+          "review_count": {
+            "N": "31"
+          },
+          "rating": {
+            "N": "4.5"
+          },
+          "zip_code": {
+            "N": "11423"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "184-13 Jamaica Ave"
+              },
+              {
+                "S": "Jamaica, NY 11423"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:12:45.015301"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "-PCQyh7uZPBamQYfpI8RBw"
+          },
+          "name": {
+            "S": "Dosa Hut"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.7352599"
+              },
+              "longitude": {
+                "N": "-74.06407"
+              }
+            }
+          },
+          "review_count": {
+            "N": "123"
+          },
+          "rating": {
+            "N": "3.0"
+          },
+          "zip_code": {
+            "N": "07306"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "777 Newark Ave"
+              },
+              {
+                "S": "Jersey City, NJ 07306"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:12:45.018303"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "_U9PlIheyEyfAn7UUxABeg"
+          },
+          "name": {
+            "S": "Smile of the Beyond"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.70918688465699"
+              },
+              "longitude": {
+                "N": "-73.80481157729449"
+              }
+            }
+          },
+          "review_count": {
+            "N": "147"
+          },
+          "rating": {
+            "N": "4.5"
+          },
+          "zip_code": {
+            "N": "11432"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "8614 Parsons Blvd"
+              },
+              {
+                "S": "Jamaica, NY 11432"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:12:45.020307"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "HGm3itKMaPIjUd-_qPICcQ"
+          },
+          "name": {
+            "S": "AKS Halal Deli & Grill"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.872757"
+              },
+              "longitude": {
+                "N": "-73.877884"
+              }
+            }
+          },
+          "review_count": {
+            "N": "26"
+          },
+          "rating": {
+            "N": "2.0"
+          },
+          "zip_code": {
+            "N": "10467"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "319 E 204th St"
+              },
+              {
+                "S": "Norwood, NY 10467"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:12:45.023302"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "HSlEzWSQbN0vRqIpN5WOZA"
+          },
+          "name": {
+            "S": "Kabab and Gyro Grill"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.69037"
+              },
+              "longitude": {
+                "N": "-73.81472"
+              }
+            }
+          },
+          "review_count": {
+            "N": "13"
+          },
+          "rating": {
+            "N": "3.0"
+          },
+          "zip_code": {
+            "N": "11419"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "131-07 Liberty Ave"
+              },
+              {
+                "S": "South Richmond Hill, NY 11419"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:12:45.026294"
+          }
+        }
+      }
+    }
+  ]
+}

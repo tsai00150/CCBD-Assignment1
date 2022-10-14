@@ -1,0 +1,1107 @@
+{
+  "yelp-restaurants": [
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "Pr-q47vsmM4aoc2t_Sfk8w"
+          },
+          "name": {
+            "S": "Momofuku Noodle Bar - Uptown"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.76802583631109"
+              },
+              "longitude": {
+                "N": "-73.9829243"
+              }
+            }
+          },
+          "review_count": {
+            "N": "461"
+          },
+          "rating": {
+            "N": "4.0"
+          },
+          "zip_code": {
+            "N": "10019"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "10 Columbus Cir"
+              },
+              {
+                "S": "Third Floor"
+              },
+              {
+                "S": "New York, NY 10019"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:13:34.625434"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "ybQV8joopvU1_gG2RwLRog"
+          },
+          "name": {
+            "S": "Wok City"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.7752417820046"
+              },
+              "longitude": {
+                "N": "-73.983876645396"
+              }
+            }
+          },
+          "review_count": {
+            "N": "102"
+          },
+          "rating": {
+            "N": "3.0"
+          },
+          "zip_code": {
+            "N": "10023"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "153 Amsterdam Ave"
+              },
+              {
+                "S": "New York, NY 10023"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:13:34.626992"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "zC5GU4K-IHc25kXf6DVCBg"
+          },
+          "name": {
+            "S": "Brooklyn Dumpling Shop"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.727593"
+              },
+              "longitude": {
+                "N": "-73.985612"
+              }
+            }
+          },
+          "review_count": {
+            "N": "329"
+          },
+          "rating": {
+            "N": "4.0"
+          },
+          "zip_code": {
+            "N": "10003"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "131 First Ave"
+              },
+              {
+                "S": "New York, NY 10003"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:13:34.634070"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "cGSLzPA_SCWrN3cyT86Nhw"
+          },
+          "name": {
+            "S": "Dun Huang - Upper West"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.81106"
+              },
+              "longitude": {
+                "N": "-73.95818"
+              }
+            }
+          },
+          "review_count": {
+            "N": "90"
+          },
+          "rating": {
+            "N": "3.5"
+          },
+          "zip_code": {
+            "N": "10027"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "1268 Amsterdam Ave"
+              },
+              {
+                "S": "New York, NY 10027"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:13:34.637151"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "VW2Epq3C8jqysu6Edpu-RA"
+          },
+          "name": {
+            "S": "Atlas Kitchen"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.80332"
+              },
+              "longitude": {
+                "N": "-73.9668"
+              }
+            }
+          },
+          "review_count": {
+            "N": "168"
+          },
+          "rating": {
+            "N": "4.0"
+          },
+          "zip_code": {
+            "N": "10025"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "258 W 109th St"
+              },
+              {
+                "S": "New York, NY 10025"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:13:34.639993"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "6dVXDdgzDEVt4DvHzpWo9w"
+          },
+          "name": {
+            "S": "Tang Pavilion"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.762849"
+              },
+              "longitude": {
+                "N": "-73.977189"
+              }
+            }
+          },
+          "review_count": {
+            "N": "336"
+          },
+          "rating": {
+            "N": "3.5"
+          },
+          "zip_code": {
+            "N": "10019"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "65 W 55th St"
+              },
+              {
+                "S": "New York, NY 10019"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:13:34.643025"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "mDajKjZjRN4tVGEJFOgF9w"
+          },
+          "name": {
+            "S": "Wok 88"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.78042"
+              },
+              "longitude": {
+                "N": "-73.95322"
+              }
+            }
+          },
+          "review_count": {
+            "N": "324"
+          },
+          "rating": {
+            "N": "3.5"
+          },
+          "zip_code": {
+            "N": "10128"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "1570 3rd Ave"
+              },
+              {
+                "S": "New York, NY 10128"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:13:34.646993"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "_7GunmWHykEJ5_u2zkX1gg"
+          },
+          "name": {
+            "S": "Dim Sum Sam"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.74057320498368"
+              },
+              "longitude": {
+                "N": "-73.98780579999999"
+              }
+            }
+          },
+          "review_count": {
+            "N": "66"
+          },
+          "rating": {
+            "N": "4.0"
+          },
+          "zip_code": {
+            "N": "10010"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "28 E 23rd St"
+              },
+              {
+                "S": "New York, NY 10010"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:13:34.649995"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "uaFHoq-a5XqxF-bsOK9_Qg"
+          },
+          "name": {
+            "S": "Real Kung Fu Little Steamed Buns Ramen"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.7616286634162"
+              },
+              "longitude": {
+                "N": "-73.98688"
+              }
+            }
+          },
+          "review_count": {
+            "N": "1095"
+          },
+          "rating": {
+            "N": "3.5"
+          },
+          "zip_code": {
+            "N": "10019"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "811 8th Ave"
+              },
+              {
+                "S": "New York, NY 10019"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:13:34.653102"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "smxIke5NSkMIExa6jLVw-g"
+          },
+          "name": {
+            "S": "Joe's Steam Rice Roll"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.78411"
+              },
+              "longitude": {
+                "N": "-73.977964"
+              }
+            }
+          },
+          "review_count": {
+            "N": "149"
+          },
+          "rating": {
+            "N": "4.5"
+          },
+          "zip_code": {
+            "N": "10024"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "422 Amsterdam Ave"
+              },
+              {
+                "S": "New York, NY 10024"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:13:34.655993"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "3eBV6HwWcdHzJW3sUH-2hw"
+          },
+          "name": {
+            "S": "ICHIRAN - Times Square"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.7600737531204"
+              },
+              "longitude": {
+                "N": "-73.9833259411037"
+              }
+            }
+          },
+          "review_count": {
+            "N": "665"
+          },
+          "rating": {
+            "N": "4.5"
+          },
+          "zip_code": {
+            "N": "10019"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "152 W 49th St"
+              },
+              {
+                "S": "New York, NY 10019"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:13:34.659993"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "_fTRTishY3G5dLPLYGCVAw"
+          },
+          "name": {
+            "S": "Tipsy Shanghai"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.74879"
+              },
+              "longitude": {
+                "N": "-73.9761"
+              }
+            }
+          },
+          "review_count": {
+            "N": "31"
+          },
+          "rating": {
+            "N": "4.0"
+          },
+          "zip_code": {
+            "N": "10016"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "594 3rd Ave"
+              },
+              {
+                "S": "New York, NY 10016"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:13:34.662994"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "JaKLZrh1Y_2qB_0Gc3bk3A"
+          },
+          "name": {
+            "S": "Ollie's Sichuan"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.75884"
+              },
+              "longitude": {
+                "N": "-73.99319"
+              }
+            }
+          },
+          "review_count": {
+            "N": "581"
+          },
+          "rating": {
+            "N": "3.5"
+          },
+          "zip_code": {
+            "N": "10036"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "411 W 42nd St"
+              },
+              {
+                "S": "New York, NY 10036"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:13:34.671191"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "Jy7htqnnxlKB2vZO42_-aw"
+          },
+          "name": {
+            "S": "Ding Asian Szechuan Hot Pot Restaurant"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.76064"
+              },
+              "longitude": {
+                "N": "-73.98635"
+              }
+            }
+          },
+          "review_count": {
+            "N": "197"
+          },
+          "rating": {
+            "N": "3.5"
+          },
+          "zip_code": {
+            "N": "10036"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "234 W 48th St"
+              },
+              {
+                "S": "New York, NY 10036"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:13:34.689023"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "uiQ6p_3biJD5S4PrF58t_g"
+          },
+          "name": {
+            "S": "Szechuan Gourmet"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.75226727202543"
+              },
+              "longitude": {
+                "N": "-73.9836107151638"
+              }
+            }
+          },
+          "review_count": {
+            "N": "851"
+          },
+          "rating": {
+            "N": "3.5"
+          },
+          "zip_code": {
+            "N": "10018"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "21 W 39th St"
+              },
+              {
+                "S": "New York, NY 10018"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:13:34.697028"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "l7G5tDA96xbA_bx1ZgkOeg"
+          },
+          "name": {
+            "S": "ICHIRAN Midtown"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.74839"
+              },
+              "longitude": {
+                "N": "-73.99062"
+              }
+            }
+          },
+          "review_count": {
+            "N": "1133"
+          },
+          "rating": {
+            "N": "4.0"
+          },
+          "zip_code": {
+            "N": "10001"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "132 W 31st St"
+              },
+              {
+                "S": "New York, NY 10001"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:13:34.705417"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "Qgv2vyUV-DwK8YwrhU-jtw"
+          },
+          "name": {
+            "S": "Lan Sheng Restaurant"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.7517141867087"
+              },
+              "longitude": {
+                "N": "-73.9883603449123"
+              }
+            }
+          },
+          "review_count": {
+            "N": "209"
+          },
+          "rating": {
+            "N": "4.0"
+          },
+          "zip_code": {
+            "N": "10018"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "128 W 36th St"
+              },
+              {
+                "S": "New York, NY 10018"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:13:34.711611"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "wyjtGsW5NeVDknGQWnIPAQ"
+          },
+          "name": {
+            "S": "wagamama - midtown"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.76316041296893"
+              },
+              "longitude": {
+                "N": "-73.97885444091449"
+              }
+            }
+          },
+          "review_count": {
+            "N": "215"
+          },
+          "rating": {
+            "N": "4.0"
+          },
+          "zip_code": {
+            "N": "10019"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "100 W 55th St"
+              },
+              {
+                "S": "New York, NY 10019"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:13:34.716515"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "yVI01P3ApyLlkqtOfgki7A"
+          },
+          "name": {
+            "S": "Bei Jing Chinese Foods"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.768619"
+              },
+              "longitude": {
+                "N": "-73.98851"
+              }
+            }
+          },
+          "review_count": {
+            "N": "25"
+          },
+          "rating": {
+            "N": "3.5"
+          },
+          "zip_code": {
+            "N": "10019"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "860 10th Ave"
+              },
+              {
+                "S": "New York, NY 10019"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:13:34.728522"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "shwaY4v3fx9tjalvHVIBxQ"
+          },
+          "name": {
+            "S": "Tengri Tagh Uyghur Cuisine"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.75246221952214"
+              },
+              "longitude": {
+                "N": "-73.98871967056284"
+              }
+            }
+          },
+          "review_count": {
+            "N": "71"
+          },
+          "rating": {
+            "N": "4.5"
+          },
+          "zip_code": {
+            "N": "10018"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "144 W 37th St"
+              },
+              {
+                "S": "New York, NY 10018"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:13:34.732511"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "MdDj13LgIs0WdbIdiyqB7Q"
+          },
+          "name": {
+            "S": "Pinch Chinese"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.72645222833495"
+              },
+              "longitude": {
+                "N": "-74.0017973317552"
+              }
+            }
+          },
+          "review_count": {
+            "N": "428"
+          },
+          "rating": {
+            "N": "4.0"
+          },
+          "zip_code": {
+            "N": "10012"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "177 Prince St"
+              },
+              {
+                "S": "New York, NY 10012"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:13:34.743516"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "KSleHGTG1yL1E7OEFFPoNQ"
+          },
+          "name": {
+            "S": "LaoMa Spicy"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.73089"
+              },
+              "longitude": {
+                "N": "-73.99343"
+              }
+            }
+          },
+          "review_count": {
+            "N": "226"
+          },
+          "rating": {
+            "N": "4.0"
+          },
+          "zip_code": {
+            "N": "10003"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "58 E 8th St"
+              },
+              {
+                "S": "New York, NY 10003"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:13:34.753545"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "ipPhk_Tmp2JYInPWJR-ZgQ"
+          },
+          "name": {
+            "S": "Dun Huang"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.748034191355224"
+              },
+              "longitude": {
+                "N": "-73.94037311324054"
+              }
+            }
+          },
+          "review_count": {
+            "N": "27"
+          },
+          "rating": {
+            "N": "3.5"
+          },
+          "zip_code": {
+            "N": "11101"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "27-23 Jackson Ave"
+              },
+              {
+                "S": "Queens, NY 11101"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:13:34.765508"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "gDCK63W5_8-tdCCWr92rbw"
+          },
+          "name": {
+            "S": "Shan"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.68524"
+              },
+              "longitude": {
+                "N": "-73.99133"
+              }
+            }
+          },
+          "review_count": {
+            "N": "43"
+          },
+          "rating": {
+            "N": "4.5"
+          },
+          "zip_code": {
+            "N": "11201"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "191 Smith St"
+              },
+              {
+                "S": "Brooklyn, NY 11201"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:13:34.772519"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "iSjPBJRiWqrgxW7ZM3CGig"
+          },
+          "name": {
+            "S": "Birds of a Feather"
+          },
+          "coordinates": {
+            "M": {
+              "latitude": {
+                "N": "40.71442"
+              },
+              "longitude": {
+                "N": "-73.960441"
+              }
+            }
+          },
+          "review_count": {
+            "N": "518"
+          },
+          "rating": {
+            "N": "4.0"
+          },
+          "zip_code": {
+            "N": "11211"
+          },
+          "address": {
+            "L": [
+              {
+                "S": "191 Grand St"
+              },
+              {
+                "S": "Brooklyn, NY 11211"
+              }
+            ]
+          },
+          "insertedAtTimestamp": {
+            "S": "2022-10-10 22:13:34.778114"
+          }
+        }
+      }
+    }
+  ]
+}
